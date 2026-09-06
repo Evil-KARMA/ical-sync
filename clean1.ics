@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_cf7dc1d62436a0768c39bff0136924a1@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-08-23. Подготовить кв
  артиру Квартира 1 к следующему заселению
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_8e26ff4201f8127741f8f3accf6967df@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-09-02. Подготовить кв
  артиру Квартира 1 к следующему заселению
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_e873bf51bdcf947fd16a35ae8d5c0c22@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-09-03. Подготовить кв
  артиру Квартира 1 к следующему заселению
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_24cd8b76c7229a78b4ee9aa3ab11b3be@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-09-12. Подготовить кв
  артиру Квартира 1 к следующему заселению
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_8f0add01d89063322dacb1fa69614c25@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-09-20. Подготовить кв
  артиру Квартира 1 к следующему заселению
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:🧹 Уборка (Квартира 1)
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260906T223135Z
+DTSTAMP:20260906T224640Z
 UID:clean_262db0d857f12585580b20133f228945@ical-hub.local
 DESCRIPTION:Выезд гостя: 2026-10-10. Подготовить кв
  артиру Квартира 1 к следующему заселению
